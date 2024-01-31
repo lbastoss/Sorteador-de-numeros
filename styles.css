@@ -93,3 +93,35 @@ button:active {
 div {
     display: flex;
 }
+
+@media screen and (max-width: 750px) {
+
+    img {
+        
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        width: 340px;
+        height: 265px;
+    }
+    
+
+    div {
+        text-align: center;
+        margin: 0 auto;
+        display: block ;
+        width: 100%;
+    }
+
+    .input-min {
+        margin-bottom: 30px;
+        margin-top: 20px;
+        margin-right: 0;
+    }
+    h2 {
+        margin-bottom: 20px;
+    }
+    button {
+        width: 200px;
+    }
+}
