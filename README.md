@@ -34,4 +34,4 @@ In this project, we put JavaScripts math function into practice by developing a 
 <br>
 <br>
  
-Deploy : https://lbastoss.github.io/project-prize-draw/
+Deploy : https://lbastoss.github.io/Sorteador-de-numeros/
